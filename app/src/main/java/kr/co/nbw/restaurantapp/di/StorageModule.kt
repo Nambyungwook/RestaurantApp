@@ -1,4 +1,4 @@
-package kr.co.nbw.restaurantapp.libraries.storage.di
+package kr.co.nbw.restaurantapp.di
 
 import dagger.Module
 import dagger.Provides

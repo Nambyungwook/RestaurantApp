@@ -68,10 +68,4 @@ class NetworkModule {
     @Provides
     @Singleton
     fun provideApiService(retrofit: Retrofit): ApiService = retrofit.create(ApiService::class.java)
-
-    @Provides
-    @Singleton
-    fun bindNetworkRequestFactory(networkRequestFactory: NetworkRequestFactoryImpl): NetworkRequestFactory =
-        networkRequestFactory
-
 }
