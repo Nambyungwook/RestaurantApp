@@ -1,0 +1,15 @@
+plugins {
+    id 'com.android.library'
+}
+
+apply from: "../base-build.gradle"
+
+dependencies {
+    implementation(project(path: ':libraries:network-contract'))
+    implementation(project(path: ':libraries:storage-contract'))
+    // api : core를 참조한 다른 모듈에서도 ui_components를 사용할 수 있음
+    api(project(path: ':ui_components'))
+
+    // Gson
+    implementation "com.google.code.gson:gson:$gson_version"
+}

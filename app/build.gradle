@@ -1,0 +1,14 @@
+plugins {
+    id 'com.android.application'
+}
+
+apply from: "../base-build.gradle"
+
+dependencies {
+    implementation(project(path: ':features:detail'))
+    implementation(project(path: ':features:feed'))
+    implementation(project(path: ':libraries:network'))
+    implementation(project(path: ':libraries:network-contract'))
+    implementation(project(path: ':libraries:storage'))
+    implementation(project(path: ':libraries:storage-contract'))
+}
