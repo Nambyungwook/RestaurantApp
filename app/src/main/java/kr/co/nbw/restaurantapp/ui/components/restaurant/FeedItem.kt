@@ -16,7 +16,7 @@ import androidx.compose.ui.unit.dp
 import coil.compose.rememberAsyncImagePainter
 import coil.request.ImageRequest
 import coil.size.Scale
-import kr.co.nbw.restaurantapp.features.common.entity.RestaurantFeedItemEntity
+import kr.co.nbw.restaurantapp.core.entity.RestaurantFeedItemEntity
 import kr.co.nbw.restaurantapp.features.feed.presentation.input.IFeedViewModelInput
 import kr.co.nbw.restaurantapp.ui.theme.Paddings
 import kr.co.nbw.restaurantapp.R

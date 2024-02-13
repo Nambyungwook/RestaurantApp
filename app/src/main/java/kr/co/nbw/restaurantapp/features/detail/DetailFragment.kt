@@ -15,7 +15,7 @@ import androidx.navigation.fragment.navArgs
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
-import kr.co.nbw.restaurantapp.BaseFragment
+import kr.co.nbw.restaurantapp.core.BaseFragment
 import kr.co.nbw.restaurantapp.features.detail.presentation.RestaurantDetailScreen
 import kr.co.nbw.restaurantapp.features.detail.presentation.output.DetailUiEffect
 import kr.co.nbw.restaurantapp.features.detail.presentation.viewmodel.RestaurantDetailViewModel

@@ -9,7 +9,7 @@ import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import kr.co.nbw.restaurantapp.features.common.entity.CategoryEntity
+import kr.co.nbw.restaurantapp.core.entity.CategoryEntity
 import kr.co.nbw.restaurantapp.features.feed.presentation.input.IFeedViewModelInput
 import kr.co.nbw.restaurantapp.ui.theme.Paddings
 

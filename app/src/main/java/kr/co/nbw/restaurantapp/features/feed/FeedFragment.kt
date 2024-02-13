@@ -14,7 +14,7 @@ import androidx.navigation.fragment.findNavController
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collectLatest
 import kotlinx.coroutines.launch
-import kr.co.nbw.restaurantapp.BaseFragment
+import kr.co.nbw.restaurantapp.core.BaseFragment
 import kr.co.nbw.restaurantapp.features.feed.presentation.output.FeedUiEffect
 import kr.co.nbw.restaurantapp.features.feed.presentation.screen.FeedScreen
 import kr.co.nbw.restaurantapp.features.feed.presentation.viewmodel.FeedViewModel

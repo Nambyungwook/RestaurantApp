@@ -1,4 +1,4 @@
-package kr.co.fastcampus.part4plus.restaurantapp.ui.components.restaurant
+package kr.co.nbw.restaurantapp.ui.components.restaurant
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer

@@ -1,10 +1,10 @@
 package kr.co.nbw.restaurantapp.features.feed.data.mapper
 
-import kr.co.nbw.restaurantapp.features.common.entity.CategoryEntity
-import kr.co.nbw.restaurantapp.features.common.entity.EntityWrapper
-import kr.co.nbw.restaurantapp.features.common.entity.RestaurantDetailEntity
-import kr.co.nbw.restaurantapp.features.common.mapper.BaseMapper
-import kr.co.nbw.restaurantapp.features.common.network.model.RestaurantResponse
+import kr.co.nbw.restaurantapp.core.entity.CategoryEntity
+import kr.co.nbw.restaurantapp.core.entity.EntityWrapper
+import kr.co.nbw.restaurantapp.core.entity.RestaurantDetailEntity
+import kr.co.nbw.restaurantapp.core.mapper.BaseMapper
+import kr.co.nbw.restaurantapp.core.network.model.RestaurantResponse
 import kr.co.nbw.restaurantapp.features.feed.data.FeedConstants
 import kr.co.nbw.restaurantapp.library.storage.IStorage
 import javax.inject.Inject
