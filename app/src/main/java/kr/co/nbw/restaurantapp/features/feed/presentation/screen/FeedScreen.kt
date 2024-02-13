@@ -39,8 +39,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import kr.co.nbw.restaurantapp.features.feed.presentation.input.IFeedViewModelInput
 import kr.co.nbw.restaurantapp.features.feed.presentation.output.FeedState
-import kr.co.nbw.restaurantapp.ui.components.restaurant.CategoryRow
-import kr.co.nbw.restaurantapp.ui.theme.Paddings
+import kr.co.nbw.restaurantapp.ui_components.components.restaurant.CategoryRow
+import kr.co.nbw.restaurantapp.ui_components.theme.Paddings
 import kr.co.nbw.restaurantapp.R
 import timber.log.Timber
 

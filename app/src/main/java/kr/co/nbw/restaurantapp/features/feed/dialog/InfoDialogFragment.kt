@@ -11,10 +11,10 @@ import androidx.compose.ui.platform.ViewCompositionStrategy
 import androidx.compose.ui.res.stringResource
 import dagger.hilt.android.AndroidEntryPoint
 import kr.co.nbw.restaurantapp.core.BaseDialogFragment
-import kr.co.nbw.restaurantapp.ui.components.dialog.Alert
-import kr.co.nbw.restaurantapp.ui.components.dialog.DialogPopup
-import kr.co.nbw.restaurantapp.ui.models.dialog.DialogButton
-import kr.co.nbw.restaurantapp.ui.theme.RestaurantAppTheme
+import kr.co.nbw.restaurantapp.ui_components.components.dialog.Alert
+import kr.co.nbw.restaurantapp.ui_components.components.dialog.DialogPopup
+import kr.co.nbw.restaurantapp.ui_components.models.dialog.DialogButton
+import kr.co.nbw.restaurantapp.ui_components.theme.RestaurantAppTheme
 import kr.co.nbw.restaurantapp.R
 
 @AndroidEntryPoint

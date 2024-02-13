@@ -35,12 +35,12 @@ import coil.size.Scale
 import kr.co.nbw.restaurantapp.core.entity.RestaurantDetailEntity
 import kr.co.nbw.restaurantapp.features.detail.presentation.input.IDetailViewModelInputs
 import kr.co.nbw.restaurantapp.features.detail.presentation.output.RestaurantDetailState
-import kr.co.nbw.restaurantapp.ui.components.buttons.PrimaryButton
-import kr.co.nbw.restaurantapp.ui.components.buttons.SecondaryButton
-import kr.co.nbw.restaurantapp.ui.components.restaurant.RestaurantMeta
-import kr.co.nbw.restaurantapp.ui.theme.Paddings
-import kr.co.nbw.restaurantapp.ui.theme.colorScheme
-import kr.co.nbw.restaurantapp.ui.util.getAnnotatedText
+import kr.co.nbw.restaurantapp.ui_components.components.buttons.PrimaryButton
+import kr.co.nbw.restaurantapp.ui_components.components.buttons.SecondaryButton
+import kr.co.nbw.restaurantapp.ui_components.components.restaurant.RestaurantMeta
+import kr.co.nbw.restaurantapp.ui_components.theme.Paddings
+import kr.co.nbw.restaurantapp.ui_components.theme.colorScheme
+import kr.co.nbw.restaurantapp.ui_components.util.getAnnotatedText
 import kr.co.nbw.restaurantapp.R
 
 

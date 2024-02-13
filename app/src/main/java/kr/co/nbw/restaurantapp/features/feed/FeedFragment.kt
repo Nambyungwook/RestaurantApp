@@ -18,8 +18,8 @@ import kr.co.nbw.restaurantapp.core.BaseFragment
 import kr.co.nbw.restaurantapp.features.feed.presentation.output.FeedUiEffect
 import kr.co.nbw.restaurantapp.features.feed.presentation.screen.FeedScreen
 import kr.co.nbw.restaurantapp.features.feed.presentation.viewmodel.FeedViewModel
-import kr.co.nbw.restaurantapp.ui.navigation.safeNavigate
-import kr.co.nbw.restaurantapp.ui.theme.RestaurantAppTheme
+import kr.co.nbw.restaurantapp.ui_components.navigation.safeNavigate
+import kr.co.nbw.restaurantapp.ui_components.theme.RestaurantAppTheme
 
 @AndroidEntryPoint
 class FeedFragment: BaseFragment() {

@@ -19,8 +19,8 @@ import kr.co.nbw.restaurantapp.core.BaseFragment
 import kr.co.nbw.restaurantapp.features.detail.presentation.RestaurantDetailScreen
 import kr.co.nbw.restaurantapp.features.detail.presentation.output.DetailUiEffect
 import kr.co.nbw.restaurantapp.features.detail.presentation.viewmodel.RestaurantDetailViewModel
-import kr.co.nbw.restaurantapp.ui.navigation.safeNavigate
-import kr.co.nbw.restaurantapp.ui.theme.RestaurantAppTheme
+import kr.co.nbw.restaurantapp.ui_components.navigation.safeNavigate
+import kr.co.nbw.restaurantapp.ui_components.theme.RestaurantAppTheme
 
 @AndroidEntryPoint
 class DetailFragment: BaseFragment() {
