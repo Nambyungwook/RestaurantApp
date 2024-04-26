@@ -5,36 +5,6 @@
       <entry key="app">
         <State />
       </entry>
-      <entry key="core">
-        <State />
-      </entry>
-      <entry key="features.detail">
-        <State />
-      </entry>
-      <entry key="features.feed">
-        <State />
-      </entry>
-      <entry key="feed">
-        <State />
-      </entry>
-      <entry key="libraries.network">
-        <State />
-      </entry>
-      <entry key="libraries.network-contract">
-        <State />
-      </entry>
-      <entry key="libraries.storage">
-        <State />
-      </entry>
-      <entry key="libraries.storage-contract">
-        <State />
-      </entry>
-      <entry key="ui_component">
-        <State />
-      </entry>
-      <entry key="ui_components">
-        <State />
-      </entry>
     </value>
   </component>
 </project>
